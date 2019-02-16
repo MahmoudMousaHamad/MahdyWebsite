@@ -1,0 +1,220 @@
+.first-header{
+    height: 100vh;
+    background: url(Photos/Header\ Portrait.png);
+    background-size: cover;
+}
+
+#header{
+    background-color: rgb(0,0,0,0.5) !important;
+    padding: 10px;
+}
+
+.social-media-icon{
+    color: #b39759;
+    margin-top: 4%;
+    font-size: 20px;
+}
+
+.arabic-button{
+    margin-top: 4%;
+    color: white;
+    background-color: #003a4c;
+    border: none;
+}
+
+.header-blockquote{
+    background-color: rgb(0,58,76, 0.5);
+    padding: 10px;
+    color: white;
+    margin: auto;
+    width: 60vw;
+    height: auto;
+    position: absolute;
+    top: 60%; left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.header-quote{
+    font-size: 30px;
+}
+
+.header-quote-name{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.bg-blue{
+    background-color: rgb(0,58,76) !important;
+}
+
+.navbar-nav{
+    width: 100% !important;
+    text-align: center !important;
+}
+
+.nav-item{
+    margin: auto;
+}
+.nav-item:hover{
+    background-color: #b39759;
+}
+
+.who-section{
+    margin-top: 25px;
+    background-color: #b39759;
+}
+
+.who-title{
+    background-color: #003a4c;
+    padding: 5px  10px  5px   10px;
+    color: white;
+    text-align: center;
+}
+
+.who-pic{
+    background-image: url(Photos/King\ Hussein\ Portrait.png);
+    background-size: cover;
+}
+
+.who-p{
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.who-btn{
+    color: white;
+    background-color: #003a4c;
+    border: none;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+}
+
+.pic-vid-section{
+    margin-top: 25px;
+    background-image: url(Photos/BG\ multi.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding-top: 25%;
+}
+
+.pic-vid-title-container{
+    width: 40%;
+    margin: auto;
+    color: white;
+}
+
+.pic-vid-title{
+    background-color: #b39759;
+    text-align: center;
+}
+
+.pic-vid-btn{
+    color: white;
+    background-color: #003a4c;
+    border: none;
+    font-size: 30px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+.what-section{
+    background-color: #003a4c;
+    margin-top: 25px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.what-section-title{
+    background-color: #b39759;
+    text-align: center;
+    width: 100%;
+    padding: 5px 10px;
+}
+
+.what-p{
+    padding: 20px 40px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.yt-video{
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.pic-story-section{
+    background-image: url(Photos/wedding\ image.png);
+    background-size: cover;
+}
+
+.pic-story-title{
+    background-color: #b39759;
+    color: white;
+    text-align: center;
+    width: 25%;
+    padding: 5px 10px;
+}
+
+.quote-section{
+    background-color: #003a4c;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.quote-human{
+    font-size: 40px;
+}
+
+.quote-human-credit{
+    color: white !important;
+    font-size: 20px;
+}
+
+.footer{
+    padding: 30px 20px;
+    background-color: #b39759;
+    color: white;
+}
+
+.quote-human-photo{
+    background-image: url(Photos/Quote\ 2.png);
+    box-shadow: 25px 25px 50px 0 #003a4c inset, -25px -25px 50px 0 #003a4c inset; 
+}
+
+.footer-logo{
+    padding-bottom: 20px;
+}
+
+.footer-item{
+
+}
+
+h4{
+    margin-left: 20px !important;
+}
+
+h5{
+    margin-left: 30px;
+}
+
+.footer-link{
+    color: white;
+}
+
+.footer-social{
+    font-size: 35px !important;
+}
+
+.vertical-center{
+    margin: auto;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
